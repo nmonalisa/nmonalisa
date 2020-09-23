@@ -9,4 +9,4 @@ Na vida pessoal amante de gatos, chocolate, café e uma boa cerveja feita em cas
 
 Se quiser me conhecer um pouco mais, não hesite em me chamar para uma conversa:  </br></br>
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathaliamonalisa/)](https://www.linkedin.com/in/nathaliamonalisa/)</br>
-![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathaliamonalisa@gmail.com)]((mailto:nathaliamonalisa@gmail.com))
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c5392a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathaliamonalisa@gmail.com)](mailto:nathaliamonalisa@gmail.com)
