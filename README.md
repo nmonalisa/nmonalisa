@@ -7,6 +7,6 @@ Na vida pessoal amante de gatos, chocolate, café e uma boa cerveja feita em cas
 </br></br>
 :email: ___Contato:___ </br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathaliamonalisa/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathaliamonalisa/)](https://www.linkedin.com/in/nathaliamonalisa/)
 nathaliamonalisa@gmail.com </br>
 :mag_right: ___Rede Social:___ linkedin.com/in/nathaliamonalisa
