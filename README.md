@@ -1,8 +1,7 @@
 
 ### Bem-vinde! 👋👋👋
 
-Iniciei minha viagem no mundo da tecnologia/programação no final de 2019, dando os primeiros passos com Javascript. Em março de 2020 ingressei no _bootcamp_ de programação front-end da Laboratória. Atualmente atuo como desenvolvedora e curso uma nova graduação na área de programação/ciência de dados. Meu objetivo é continuar me dedicando aos estudos e dominar os fundamentos do desenvolvimento e da análise de dados para impactar cada vez pessoas através da tecnologia. Para isso, acredito no poder da associação da teoria com a prática e experimentação!</br>
-Na vida pessoal amante de gatos, chocolate, café e uma boa cerveja feita em casa!  :blush:
+Iniciei minha viagem no mundo da tecnologia/programação no final de 2019, dando os primeiros passos com Javascript. Em março de 2020 ingressei no _bootcamp_ de programação front-end da Laboratória. Atualmente atuo como desenvolvedora e curso uma nova graduação na área de programação/ciência de dados. Meu objetivo é continuar me dedicando aos estudos e dominar os fundamentos do desenvolvimento e da análise de dados para impactar cada vez pessoas através da tecnologia. Para isso, acredito no poder da associação da teoria com a prática e experimentação!Na vida pessoal amante de gatos, chocolate, café e uma boa cerveja feita em casa!  :blush:
 </br></br>
 
 
