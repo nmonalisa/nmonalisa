@@ -1,8 +1,7 @@
 
 ### Bem-vinde! 👋👋👋
 
-Iniciei minha viagem no mundo da tecnologia/programação no final de 2019, dando os primeiros passos com Javascript. Em março de 2020 ingressei no _bootcamp_ de programação front-end da Laboratória. Atualmente atuo como desenvolvedora e curso uma nova graduação na área de programação/ciência de dados. Meu objetivo é continuar me dedicando aos estudos e dominar os fundamentos do desenvolvimento e da ciência de dados para impactar cada vez pessoas através da tecnologia. Para isso, acredito no poder da associação da teoria com a prática e experimentação!Na vida pessoal amante de gatos, chocolate, café e uma boa cerveja feita em casa!  :blush:
-</br></br>
+Atualmente atuo como desenvolvedora front-end com foco em ReactJS. Além de desenvolvimento de software, tenho grande interesse na área de dados. Acredito que minhas experiências acadêmicas e científicas anteriores junto com minhas habilidades em programação podem contribuir amplamente para eu alcançar meu principal objetivo de médio prazo, que é me tornar uma ótima cientista de dados com sólida formação teórica e prática. Por isso também iniciei uma nova graduação na área (Bacharelado em Ciências de Dados) e estou aprofundando gradualmente meus estudos nos conceitos e ferramentas básicas da área (Python, SQL, Power BI, técnicas de storytelling e outros).
 
 
 Se quiser me conhecer um pouco mais, não hesite em me chamar para uma conversa: </br>
