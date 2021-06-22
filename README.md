@@ -1,7 +1,7 @@
 
 ### Bem-vinde! 👋👋👋
 
-Tenho breve experiência como programadora front-end com foco em ReactJS. Além de programação, tenho grande interesse na área de dados. Acredito que minhas experiências anteriores na pesquisa científica (que me forneceu uma boa base estatística) junto com minhas habilidades atuais em programação podem contribuir amplamente para eu alcançar meu principal objetivo de médio prazo, que é me tornar uma ótima cientista de dados com sólida formação teórica e prática. Por isso também iniciei uma nova graduação na área (Bacharelado em Ciências de Dados) e estou aprofundando gradualmente meus estudos nos conceitos e ferramentas básicas da área (Python, SQL, Power BI, técnicas de storytelling e outros).Buscando uma oportunidade para aprender e me desenvolver na área!
+Tenho breve experiência como programadora front-end com foco em ReactJS. Além de programação, tenho grande interesse na área de dados. Acredito que minhas experiências na pesquisa científica (fornecendo uma boa base estatística) junto com minhas habilidades atuais em programação podem contribuir amplamente para eu alcançar meu principal objetivo de médio prazo, que é me tornar uma ótima cientista de dados com sólida formação teórica e prática. Por isso também iniciei uma nova graduação na área (Bacharelado em Ciências de Dados) e estou aprofundando gradualmente meus estudos nos conceitos e ferramentas básicas da área (Python, SQL, Power BI, técnicas de storytelling e outros).Buscando uma oportunidade para aprender e me desenvolver na área!
 
 
 Se quiser me conhecer um pouco mais, não hesite em me chamar para uma conversa: </br>
